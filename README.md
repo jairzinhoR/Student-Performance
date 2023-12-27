@@ -6,3 +6,5 @@ Atividade da disciplina de Introdução à Ciência de Dados, da Especializaçã
 Base de dados disponível em UC Irvine Machine Learning Repository: https://archive.ics.uci.edu/dataset/320/student+performance
 
 Utilizamos apenas as notas da disciplina de Matemática. Arquivo: student-mat.csv
+
+Tecnologias utilizadas: Python, Jupyter Notebook, Matplotlib, Pandas, Seaborn, Statitics, Numpy.
